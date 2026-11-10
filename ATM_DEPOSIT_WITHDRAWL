@@ -1,0 +1,44 @@
+total_withdrawl = 0
+    #total_deposit = 0
+#    success_count = 0
+ #   failed_count = 0
+#
+ #   for i in range (1,6):
+ #       amount = float(input("Enter your  amount"))
+#
+#
+ #   if amount > 0 :
+  #      success_count = success_count + 1
+#
+ #       print ("deposited")
+#
+ #       balance = amount + balance
+#
+ #       total_deposit = total_deposit + amount 
+
+  #  elif amount <0:
+         
+    
+   #     withdrawl = -amount
+
+    #    if withdrawl <= balance:
+ #           success_count = success_count + 1
+#
+   #         total_withdrawl = total_withdrawl + withdrawl
+        #    balance = balance - withdrawl
+
+       #     print("We can do the withdrawal")
+               
+   #     else:
+    #        print("Insufficient transsaction")
+
+   # else:
+   #     print("failed transaction") 
+    #    failed_count = failed_count + 1
+            
+
+  #  print(f"The final balance is:{balance}") 
+   # print(f"The total withdrawl is:{total_withdrawl}") 
+    ##rint(f"There are {success_count} succesfull transaction")
+  #  print(f"There are {failed_count} unsuccessfull transaction")
+
