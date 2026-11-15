@@ -1,5 +1,5 @@
 age = int(input("Enter Your age:"))
-Card = input("Do You Have Card")
+Card = input("Do You Have Card(yes/no):").strip()
 
 if age >= 18:
     print("Eligible to vote")
@@ -17,4 +17,4 @@ if age >= 18:
         print("Not Allowed To Vote")
 
 else:
-    print("Not Allowed to Vote")
+    print("Not eligible to Vote")
