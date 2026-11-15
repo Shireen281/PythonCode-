@@ -1,2 +1,1 @@
-# PythonCode-
-Python coding project
+A collection of Python coding exercises and small projects covering core concepts such as variables, conditions, loops, functions, and problem-solving. Built as part of my hands-on Python learning journey.
