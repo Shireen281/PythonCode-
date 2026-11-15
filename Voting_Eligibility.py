@@ -1,5 +1,5 @@
 age = int(input("Enter your age:"))
-ID_CARD =input("Enter whether you have ID_CARD:")
+ID_CARD =input("Enter whether you have ID_CARD(yes/no):").strip()
 
 if age >= 18 and ID_CARD == "yes":
    print("eligible to vote & allowed to vote.")
