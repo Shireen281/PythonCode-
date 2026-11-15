@@ -1,7 +1,5 @@
 Total_collection = 0
 
-
-
 for i in range (1,6):
     unit = int(input("Enter the amount of unit you used"))
 
